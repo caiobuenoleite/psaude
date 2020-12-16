@@ -1,1 +1,1 @@
-web: gunicorn medicohome:app.server
+web: gunicorn medicohome:server
